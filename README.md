@@ -27,5 +27,5 @@ Please, Look Our Project for **[Predictive Maintenance System Using Multimodal D
 💻 Notion: **[My Notion](https://hollow-parent-6e7.notion.site/RNN-implementation-1b9fda6f068c804681a4d827a2fdbd9e?pvs=74)**
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=youse0ng&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youse0ng&layout=compact&theme=radical)
