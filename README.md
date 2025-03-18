@@ -28,8 +28,9 @@ Please, Look Our Project for **[Predictive Maintenance System Using Multimodal D
 </p>
 
 ### 🏆 Baekjoon Online Judge  
-<img src="https://github-readme-solvedac.vercel.app/api/?handle=hysskm123" alt="Solved.ac Profile" width="400"/>
+![BOJ Tier](https://github-readme-solvedac.vercel.app/api/?handle=hysskm123)  
 
-### 📊 GitHub Stats    
-<img src="https://github-readme-stats.vercel.app/api?username=youse0ng&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youse0ng&layout=compact&theme=radical" alt="Most Used Languages" width="400"/>
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=youse0ng&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youse0ng&layout=compact&theme=radical)
+
