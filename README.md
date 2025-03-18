@@ -11,11 +11,13 @@ Please, Look Our Project for **[Predictive Maintenance System Using Multimodal D
 - 🌍 **Emergency Room Recommendation** - Django 기반 응급실 추천 서비스 **[Notion에서 프로젝트 바로보기](https://hollow-parent-6e7.notion.site/1aefda6f068c8074b03ed32676feb53f)**
 
 ### 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)  
-![PyTorch](https://img.shields.io/badge/PyTorch-60%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-80%25-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-80%25-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/PyTorch-60%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-80%25-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-80%25-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🏆 Baekjoon Online Judge  
 ![BOJ Tier](https://github-readme-solvedac.vercel.app/api/?handle=hysskm123)  
