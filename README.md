@@ -1,7 +1,7 @@
 ## 👋 Hello World!  
 I'm **Youseong** and I love developing AI.
 Please, Look Our Project for **[Predictive Maintenance System Using Multimodal Data](https://www.youtube.com/watch?v=G9g6b73ycRM&t=508s)**  
-More Specifically, Visit **[Here](https://github.com/orgs/KT-AIVLE6th-BigProject-Team3/repositories](https://github.com/KT-AIVLE6th-BigProject-Team3/monoguard)** for checking Our Project Open Sources. :)
+More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team3/monoguard)** for checking Our Project Open Sources. :)
 
 - 👀 I’m interested in DeepLearning(Representation Learning)
 - 🌱 Now I'm studying about DataStructure & Algorithms again
