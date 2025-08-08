@@ -14,7 +14,8 @@ More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team
 - 🔥 **Predictive Maintenance Dashboard** - 멀티모달 데이터를 활용한 예지보전 서비스  
 - 🌍 **Emergency Room Recommendation** - Django 기반 응급실 추천 서비스 **[Notion에서 프로젝트 바로보기](https://hollow-parent-6e7.notion.site/1aefda6f068c8074b03ed32676feb53f)**
 - 🧠 **Study On Dementia With Walking Life Log Dataset** - 걸음 라이프 로그 데이터셋을 이용한 데이터 분석과 데이터 플레이그라운드 사이트
-  
+- 👨🏻‍⚕️ **소아 X-Ray Segmentation & MultiModal(Image + Meta) Captioning Model** - 소아 X-Ray 복부 Segmentation 모델과 X-Ray와 환자 메타 정보를 이해하는 진단 AI 모델 
+
 ### 📫 How to reach me 
 📧 Email: hysskm@gmail.com
 💻 Notion: **[My Notion](https://hollow-parent-6e7.notion.site/RNN-implementation-1b9fda6f068c804681a4d827a2fdbd9e?pvs=74)**
