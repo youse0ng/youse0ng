@@ -1,4 +1,4 @@
-<img width="687" height="383" alt="image" src="https://github.com/user-attachments/assets/c1b1b36f-07e0-443f-8914-09ed70e06784" />## 👋 Hello World!  
+## 👋 Hello World!  
 I'm **Youseong** and I love developing AI.
 Please, Look Our Project for **[Predictive Maintenance System Using Multimodal Data](https://www.youtube.com/watch?v=G9g6b73ycRM&t=508s)**  
 More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team3/monoguard)** for checking Our Project Open Sources. :)
