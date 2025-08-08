@@ -1,4 +1,4 @@
-## 👋 Hello World!  
+<img width="687" height="383" alt="image" src="https://github.com/user-attachments/assets/c1b1b36f-07e0-443f-8914-09ed70e06784" />## 👋 Hello World!  
 I'm **Youseong** and I love developing AI.
 Please, Look Our Project for **[Predictive Maintenance System Using Multimodal Data](https://www.youtube.com/watch?v=G9g6b73ycRM&t=508s)**  
 More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team3/monoguard)** for checking Our Project Open Sources. :)
@@ -13,6 +13,7 @@ More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team
 ### 🚀 Recent Projects  
 - 🔥 **Predictive Maintenance Dashboard** - 멀티모달 데이터를 활용한 예지보전 서비스  
 - 🌍 **Emergency Room Recommendation** - Django 기반 응급실 추천 서비스 **[Notion에서 프로젝트 바로보기](https://hollow-parent-6e7.notion.site/1aefda6f068c8074b03ed32676feb53f)**
+- 🧠 **Study On Dementia With Walking Life Log Dataset** - 걸음 라이프 로그 데이터셋을 이용한 데이터 분석과 데이터 플레이그라운드 사이트
   
 ### 📫 How to reach me 
 📧 Email: hysskm@gmail.com
