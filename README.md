@@ -17,9 +17,11 @@ More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team
 - 🧠 **Streamlit 기반의 Study On Dementia With Walking Life Log Dataset** - 걸음 라이프 로그 데이터셋을 이용한 데이터 분석과 데이터 플레이그라운드 사이트
 - 👨🏻‍⚕️ **Streamlit & Gradio 기반의 소아 X-Ray Segmentation & MultiModal(Image + Meta) Captioning Model** - 소아 X-Ray 복부 Segmentation 모델과 X-Ray와 환자 메타 정보를 이해하는 진단 AI 모델 
 
-### 📫 How to reach me 
+### 📫 How to reach me
 📧 Email: hysskm@gmail.com
+
 💻 Notion: **[My Notion](https://hollow-parent-6e7.notion.site/AI-1adfda6f068c807ca8ccfee10dabd698?pvs=74)**
+
 💻 AI Notion: **[My AI Study Space](https://hollow-parent-6e7.notion.site/BackGround-1a6fda6f068c8020b8b2ee26f52ee56b?pvs=74)**
 
 ### 💻 Tech Stack  
