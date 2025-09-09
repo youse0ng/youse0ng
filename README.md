@@ -30,7 +30,7 @@ More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team
   <img src="https://img.shields.io/badge/PyTorch-60%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-80%25-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-80%25-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-50%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🏆 Baekjoon Online Judge  
