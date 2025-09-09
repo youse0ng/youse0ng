@@ -19,7 +19,8 @@ More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team
 
 ### 📫 How to reach me 
 📧 Email: hysskm@gmail.com
-💻 Notion: **[My Notion](https://hollow-parent-6e7.notion.site/RNN-implementation-1b9fda6f068c804681a4d827a2fdbd9e?pvs=74)**
+💻 Notion: **[My Notion](https://hollow-parent-6e7.notion.site/AI-1adfda6f068c807ca8ccfee10dabd698?pvs=74)**
+💻 AI Notion: **[My AI Study Space](https://hollow-parent-6e7.notion.site/BackGround-1a6fda6f068c8020b8b2ee26f52ee56b?pvs=74)**
 
 ### 💻 Tech Stack  
 <p align="center">
