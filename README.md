@@ -14,7 +14,7 @@ More Specifically, Visit **[Here](https://github.com/KT-AIVLE6th-BigProject-Team
 - 👨🏻‍⚕️ **SoAI 소아과 의사를 위한 AI 보조 시스템** - FastAPI & Java Spring Boot & Next.js & MariaDB (MVC 패턴) **[해당 GitHub 바로가기](https://github.com/soai-org)**
 - 🔥 **Predictive Maintenance Dashboard** - FastAPI & Java Spring Boot & DB 기반 멀티모달 데이터를 활용한 제조 운송장치 예지보전 서비스 **[해당 GitHub 바로가기](https://github.com/KT-AIVLE6th-BigProject-Team3/monoguard)**
 - 🌍 **Emergency Room Recommendation** - FastAPI기반 응급실 추천 서비스 **[Notion에서 프로젝트 바로보기](https://hollow-parent-6e7.notion.site/1aefda6f068c8074b03ed32676feb53f)**
-- 🧠 **Streamlit + Machine Learning 기반의 Study On Dementia With Walking Life Log Dataset** - 걸음 라이프 로그 데이터셋을 이용한 데이터 분석과 데이터 플레이그라운드 사이트 **[해당 GIthub 바로가기](https://github.com/youse0ng/StudyOnDementia)**
+- 🧠 **Streamlit + Machine Learning 기반의 Study On Dementia With Walking Life Log Dataset** - 걸음 라이프 로그 데이터셋을 이용한 데이터 분석과 데이터 플레이그라운드 사이트 **[해당 Github 바로가기](https://github.com/youse0ng/StudyOnDementia)**
 - 👨🏻‍⚕️ **Streamlit & Gradio 기반의 소아 X-Ray Segmentation & MultiModal(Image + Meta) Captioning Model** - 소아 X-Ray 복부 Segmentation 모델과 X-Ray와 환자 메타 정보를 이해하는 진단 멀티모달 AI 모델 **[해당 GitHub 바로가기](https://github.com/youse0ng/SoAI)**
 
 ### 📫 How to reach me
